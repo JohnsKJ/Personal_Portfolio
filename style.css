@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(images/mainback\ for540.jpg);
+    background-image: url(images/prof\ for\ 540.jpg);
     
 }
 @media (max-width: 480px){
@@ -51,7 +51,7 @@ body{
     letter-spacing: 3px;
 }
 .text-second{
-    color: black;
+    color:#da1950;
     font-size: 50px;
     font-weight: bold;
     letter-spacing: 10px;
